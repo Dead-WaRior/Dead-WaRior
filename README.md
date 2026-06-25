@@ -1,12 +1,13 @@
-# Hi, I'm Anupam 👋
+## Hi, I'm Anupam 👋
 
 <img src="https://media.giphy.com/media/TKa7fQzChHylCQ89to/giphy.gif" width="400">
 
----
+## 🎧 Music
 
-## 🎧 Now Playing on Spotify
+<img src="https://i.scdn.co/image/ab67616d0000b273YOUR_IMAGE_ID" width="300">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31abcdxyz123&count=1)](https://open.spotify.com/user/31abcdxyz123)
+🎵 Favorite Track  
+[▶ Listen on Spotify](https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93)
 
 <!--
 **Dead-WaRior/Dead-WaRior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
