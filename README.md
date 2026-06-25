@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Anupam👋
 
+<img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzYycmJ4eDJoNGo4NXF0OXh0NjZicXp5ZXljcmF3dTBwcDVtenBkZiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/TKa7fQzChHylCQ89to/giphy.gif">
+
+https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93?si=49b4c4d1450b4b11
 <!--
 **Dead-WaRior/Dead-WaRior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
