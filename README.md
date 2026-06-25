@@ -1,6 +1,6 @@
 ## Hi, I'm Anupam 👋
 
-<img src="[https://media.giphy.com/media/TKa7fQzChHylCQ89to/giphy.gif]" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWV0dDM1c2M1dWt2bjUzMjdiZDV2YXp3bTBydnJhdmF3MmNodjRybyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8R13hY2pPvuSMGXzOv/giphy.gif" width="400">
 
 ## 🎧 Music
 
