@@ -4,7 +4,7 @@
 
 ## 🎧 Music
 
-<img src="https://i.scdn.co/image/ab67616d0000b273YOUR_IMAGE_ID" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2JxMmtzNHBjMmo1OG0zZWswNGVuY3U2MXBvMGZoaHcwZGlhdWJqOCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/JyF7YMCmCZqxoN3sb7/giphy.gif" width="300">
 
 🎵 Favorite Track  
 [▶ Listen on Spotify](https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93)
