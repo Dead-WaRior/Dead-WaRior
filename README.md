@@ -6,7 +6,7 @@
 
 ## 🎧 Now Playing on Spotify
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" />
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=1)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 <!--
 **Dead-WaRior/Dead-WaRior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
